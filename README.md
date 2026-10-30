@@ -248,19 +248,7 @@ The training script calculates **accuracy, precision, recall, and F1-score** on 
 - Training time depends on CPU, RAM, TensorFlow build, and network speed.
 
 ## 24. Author
-**Name:** [Your Name]  
-**College:** [Your College]  
-**Department / Year:** [Your Department and Year]  
-**GitHub:** [Your GitHub profile URL]  
-Replace these editable placeholders before publishing or submitting.
-
-## 25. Quick run checklist
-- [ ] Python 3.10 virtual environment created and activated.
-- [ ] Backend requirements installed.
-- [ ] `python train_model.py` completed and generated model artifacts.
-- [ ] Optional `backend/.env` configured for Groq.
-- [ ] FastAPI started on port 8000.
-- [ ] Frontend dependencies installed and Vite started on port 5173.
-- [ ] Tested one positive and one negative input.
-- [ ] Checked history, dashboard chart, metrics, and CSV export.
-- [ ] Added screenshots and updated author details.
+**Name:** Poshanya  
+**College:** PVPSIT  
+**Department / Year:** CSE 4th year
+**GitHub:** https://github.com/Poshanya  
